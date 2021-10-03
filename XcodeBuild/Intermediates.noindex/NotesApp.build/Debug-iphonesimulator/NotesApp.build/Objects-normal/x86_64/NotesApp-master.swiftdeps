@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "f8fada89af4e8ed2678414de0b49b43e"
+build_time: [1633289549, 121201000]
+inputs:
+  "/Users/mkoltsov/Projects/Sources/NotesApp/NotesApp/NotesStorage.swift": [1633252651, 0]
+  "/Users/mkoltsov/Projects/Sources/NotesApp/NotesApp/EnterNoteViewController.swift": [1633289545, 174483080]
+  "/Users/mkoltsov/Projects/Sources/NotesApp/NotesApp/ViewController.swift": [1633287006, 368044582]
+  "/Users/mkoltsov/Projects/Sources/NotesApp/NotesApp/AppDelegate.swift": [1632824327, 0]
+  "/Users/mkoltsov/Projects/Sources/NotesApp/NotesApp/KeyboardInfoController.swift": [1633287262, 465200864]
+  "/Users/mkoltsov/Projects/Sources/NotesApp/NotesApp/SceneDelegate.swift": [1632480339, 0]
